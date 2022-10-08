@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MoneSuper
 =================================================================================================================================
 
-I help others to create customs scripts am sad brainer I don't think and am stupid
-
 * 🌍  I'm based in Somewhere
 * 🚀  I'm currently working on [ProjectSloth](http://github.com/Project-Sloth)
 * 🧠  I'm learning Svelte, JavaScript
