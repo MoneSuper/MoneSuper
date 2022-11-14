@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 
 * 🌍  I'm based in Somewhere
-* 🚀  I'm currently working on [ProjectSloth](http://github.com/Project-Sloth)
 * 🧠  I'm learning Svelte, JavaScript
 * ⚡  I spend alot time my pc
 
