@@ -1,6 +1,6 @@
 # About Me
 
-Skill issue
+Am currently not active as much used to be so yea.....
 
 # Status
 
